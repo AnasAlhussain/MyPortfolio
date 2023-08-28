@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning C#</p>
+<p align="left">I'm Anas ALhussain from Sweden<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning C#</p>
 
 ###
 
